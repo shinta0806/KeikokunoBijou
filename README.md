@@ -4,7 +4,7 @@
 
 ## はじめに
 
-「渓谷の琵城」は、<a href="https://www.artdink.co.jp/japanese/title/a-tourism/">A列車で行こう はじまる観光計画</a>（はじまるA列車）Steam 版のユーザーシナリオです。
+「渓谷の琵城」は、[A列車で行こう はじまる観光計画](https://www.artdink.co.jp/japanese/title/a-tourism/)（はじまるA列車）Steam 版のユーザーシナリオです。
 
 ゲーム内で本シナリオをダウンロードすることにより遊べます。
 
@@ -36,9 +36,9 @@
 
 ## リンク
 
-- <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2798997033">Steam サイト内「渓谷の琵城」ページ</a>
-- <a href="https://www.artdink.co.jp/manual/a-tourism/steam/ja/start/02-02.html">シナリオダウンロード方法（公式ヘルプ）</a>
-- <a href="https://twitter.com/shinta0806/status/1507941978582904834">シナリオダウンロード方法（図解ツイート）</a>
+- [Steam サイト内「渓谷の琵城」ページ](https://steamcommunity.com/sharedfiles/filedetails/?id=2798997033)
+- [シナリオダウンロード方法（公式ヘルプ）](https://www.artdink.co.jp/manual/a-tourism/steam/ja/start/02-02.html)
+- [シナリオダウンロード方法（図解ツイート）](https://twitter.com/shinta0806/status/1507941978582904834)
 
 ## よくある質問
 
