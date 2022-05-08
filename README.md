@@ -51,6 +51,8 @@
 - [Steam サイト内「渓谷の琵城」ページ](https://steamcommunity.com/sharedfiles/filedetails/?id=2798997033)
 - [シナリオダウンロード方法（公式ヘルプ）](https://www.artdink.co.jp/manual/a-tourism/steam/ja/start/02-02.html)
 - [シナリオダウンロード方法（図解ツイート）](https://twitter.com/shinta0806/status/1507941978582904834)
+- [はじまるA列車　自作シナリオ作成方法　まとめシリーズ](https://shinta0806be.ldblog.jp/archives/10512590.html)
+- [はじまるA列車　セーブデータ配布方法　まとめ](https://shinta0806be.ldblog.jp/archives/10514950.html)
 
 ## よくある質問
 
