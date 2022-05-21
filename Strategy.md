@@ -1,4 +1,4 @@
-# 達人攻略例
+# 達人攻略例　- 渓谷の琵城 -
 
 ![南北線](images/Strategy_NanbokuLine.jpg)
 
